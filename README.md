@@ -6,3 +6,6 @@ Tech Stack:
 Programming Language: Java, HTML, CSS and Java Script
 Database: (To save history)
 Libraries Support: Google ZXing
+
+
+Author: Ankit Sudegora
